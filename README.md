@@ -15,12 +15,14 @@ Understanding the trends of interstate migration is crucial because it impacts e
 2. Matplotlib - For generating plots and various data visualizations
 3. Seaborn - A wrapper for matplotlib that generates compelling visualizations
 4. Plotly - A library that helps generate interactive plots and visualizations, here used to generate choropleths
-5. warnings - To suppress any warnings so that the Python notebook is clean and free of errors/warnings
+5. sklearn - To develop a linear regression machine learning model for the inflow-outflow ratio
+6. warnings - To suppress any warnings so that the Python notebook is clean and free of errors/warnings
 
 ## Key findings:
 1. Northeast and midwest regions experiencing the highest net outflow of people
 2. The outflow includes both young and old people and increases with increasing income
 3. The states experiencing the highest outflows are CA, NY, IL; the states experiencing highest inflows are TX, FL, WA, OR
+4. Around 85% of last year's net inflows continue into next year with additional inflows depending largely on region and to a lesser extent on incomes, with no impact of age
 
 ## References:
 1. https://www.irs.gov/statistics/soi-tax-stats-migration-data
